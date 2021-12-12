@@ -23,7 +23,7 @@ USE "PAUSE" for the keep open the terminal.
 
 ## Authors
 
-* Takuma - [GitHub](https://github.com/devTakuma)
+* Takuma - [GitHub](https://github.com/nicolasCDT)
 
 ## License
 
